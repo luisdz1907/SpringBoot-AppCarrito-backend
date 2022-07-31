@@ -1,0 +1,1 @@
+INSERT INTO `producto` (`id`, `descripcion`, `fecha_registro`, `marca`, `nombre`, `precio_compra`, `precio_venta`, `stock`, `id_categoria`) VALUES (NULL, 'El mejor telefono', '2022-07-05', 'Xiaomi', 'Redmi Note 8', '200.000', '300.000', '500', NULL);
